@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Página inicial",
-    "section": "",
-    "text": "Consultoria Estatística Profissional\n\n\nAssessoria estatística completa para estudantes de graduação e pós-graduação e pesquisadores: análises, gráficos, interpretação e tutoria personalizada.\n\n\n\n\n\n\nEntre em contato e descubra como podemos ajudar no seu projeto!\n\nContato\n\n\n\n\nComo funciona\n\n\n\n\n\n\n\n\n📅 Etapa 1\n\n\nVocê entra em contato e descreve sua necessidade.\n\n\n\n\n\n\n\n📊 Etapa 2\n\n\nDefinição do serviço e proposta de análise.\n\n\n\n\n\n\n\n📈 Etapa 3\n\n\nExecução da análise estatística e entrega dos resultados.\n\n\n\n\n\n\n\n✅ Etapa 4\n\n\nSuporte final e esclarecimento de dúvidas.\n\n\n\n\n\n\nPor trás da consultoria\n\n\nSou formada em Biotecnologia e mestre em Estatística Aplicada e Biometria. Utilizo visão interdisciplinar para ser mais detalhista, coerente e eficiente na aplicação da estatística em diversas áreas do conhecimento. Tenho experiência com condução de pesquisas científicas, conhecendo todo o processo de levantamento de hipóstes, determinação metodológica, qualificação dos resultados junto à escrita de relatórios e monografias.\n\n\n\n\n\nBenefícios\n\n\n🟢 Suporte amplo para sua pesquisa, desde o planejamento até a análise e interpretação dos resultados.\n🟢 Auxílio na definição do tamanho da sua amostra, coleta de dados e estruturação do seu experimento.\n🟢 Acompanhamento passo a passo. Entendimento de todos os processos. Você no domínio da sua pesquisa.\n🟢 Tranquilidade e confiabilidade na sua pesquisa e nos seus resultados."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "contato.html",
-    "href": "contato.html",
-    "title": "Mariana Gomes | Consultoria Estatística",
-    "section": "",
-    "text": "Tem interesse em saber mais sobre os serviços de consultoria estatística?\nTem uma dúvida específica sobre seu projeto ou quer conversar sobre uma parceria?\nFico à disposição para ouvir sua demanda e entender como posso ajudar."
-  },
-  {
-    "objectID": "contato.html#entrar-em-contato",
-    "href": "contato.html#entrar-em-contato",
-    "title": "contato",
-    "section": "",
-    "text": "📧 E-mail: marianadepaulagomes@gmail.com\n📱 WhatsApp: (19) 99690-6694"
-  },
-  {
     "objectID": "servicos.html",
     "href": "servicos.html",
     "title": "Mariana Gomes | Consultoria Estatística",
@@ -63,18 +35,11 @@
     "text": "🟠 Apoio Acadêmico e Metodológico\nAuxílio em disciplinas da área de estatística, orientação em produções acadêmicas (TCC, dissertação, tese), revisão metodológica e uso do software R.\n\n\n\n\n\n\nPúblico-alvo\n\n\n\n\n\nVoltado para: Estudantes de graduação e pós-graduação em diversas áreas do conhecimento."
   },
   {
-    "objectID": "contato.html#entre-em-contato",
-    "href": "contato.html#entre-em-contato",
+    "objectID": "contato.html",
+    "href": "contato.html",
     "title": "Mariana Gomes | Consultoria Estatística",
-    "section": "Entre em contato",
-    "text": "Entre em contato\nTem interesse em saber mais sobre os serviços de consultoria estatística?\nTem uma dúvida específica sobre seu projeto ou quer conversar sobre uma parceria?\nFico à disposição para ouvir sua demanda e entender como posso ajudar.\n\n\n📧 E-mail\nconsultoria.estatistica@gmail.com\n\n\n💼 LinkedIn\nlinkedin.com/in/mariana-depaulagomes\n\n\n🌐 Site\nwww.seusite.com"
-  },
-  {
-    "objectID": "contato.html#formulário-de-contato",
-    "href": "contato.html#formulário-de-contato",
-    "title": "Contato",
-    "section": "Formulário de contato",
-    "text": "Formulário de contato\nVocê também pode preencher o formulário abaixo e responderei o mais breve possível:\n\n\n\n\n\n\nEnvie sua mensagem\n\n\n\n\nCarregando…"
+    "section": "",
+    "text": "Tem interesse em saber mais sobre os serviços de consultoria estatística?\nTem uma dúvida específica sobre seu projeto ou quer conversar sobre uma parceria?\nFico à disposição para ouvir sua demanda e entender como posso ajudar."
   },
   {
     "objectID": "contato.html#envie-sua-mensagem",
@@ -82,5 +47,26 @@
     "title": "Mariana Gomes | Consultoria Estatística",
     "section": "Envie sua mensagem",
     "text": "Envie sua mensagem\nVocê também pode preencher o formulário abaixo e responderei o mais breve possível:\n\n\n\n\n\n\nFormulário de contato\n\n\n\n\nCarregando…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Construção em andamento."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Página inicial",
+    "section": "",
+    "text": "Consultoria Estatística Profissional\n\n\nAssessoria estatística completa para estudantes de graduação e pós-graduação e pesquisadores: análises, gráficos, interpretação e tutoria personalizada.\n\n\n\n\n\n\nEntre em contato e descubra como podemos ajudar no seu projeto!\n\nContato\n\n\n\n\nComo funciona\n\n\n\n\n\n\n\n\n📅 Etapa 1\n\n\nVocê entra em contato e descreve sua necessidade.\n\n\n\n\n\n\n\n📊 Etapa 2\n\n\nDefinição do serviço e proposta de análise.\n\n\n\n\n\n\n\n📈 Etapa 3\n\n\nExecução da análise estatística e entrega dos resultados.\n\n\n\n\n\n\n\n✅ Etapa 4\n\n\nSuporte final e esclarecimento de dúvidas.\n\n\n\n\n\n\nPor trás da consultoria\n\n\nSou formada em Biotecnologia e mestre em Estatística Aplicada e Biometria. Utilizo visão interdisciplinar para ser mais detalhista, coerente e eficiente na aplicação da estatística em diversas áreas do conhecimento. Tenho experiência com condução de pesquisas científicas, conhecendo todo o processo de levantamento de hipóstes, determinação metodológica, qualificação dos resultados junto à escrita de relatórios e monografias.\n\n\n\n\n\nBenefícios\n\n\n🟢 Suporte amplo para sua pesquisa, desde o planejamento até a análise e interpretação dos resultados.\n🟢 Auxílio na definição do tamanho da sua amostra, coleta de dados e estruturação do seu experimento.\n🟢 Acompanhamento passo a passo. Entendimento de todos os processos. Você no domínio da sua pesquisa.\n🟢 Tranquilidade e confiabilidade na sua pesquisa e nos seus resultados."
   }
 ]
