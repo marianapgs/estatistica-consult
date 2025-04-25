@@ -1,0 +1,52 @@
+---
+title: ""
+format: html
+page-layout: full
+---
+
+
+![](images/servicos.png){fig-align="center"}
+
+**Consultoria estatística especializada** com foco em qualidade metodológica e eficiência na condução de pesquisas. A seguir, conheça as principais frentes de atuação:
+
+
+<div style="margin-top: 40px;"></div>
+
+
+## 🟠 Consultoria para Pesquisas Acadêmicas
+
+Acompanhamento completo, do projeto ao relatório final. Inclui suporte na formulação de hipóteses, planejamento, seleção de métodos estatísticos, análise de dados e interpretação dos resultados.
+
+::: {.callout-note collapse=false title=Aplicações}
+**Ideal para:** Trabalhos de Conclusão de Curso (TCC), dissertações, teses e artigos científicos.
+:::
+
+---
+
+## 🟠 Planejamento e Análise de Experimentos
+
+Estruturação de experimentos com foco em confiabilidade e precisão dos dados. Aplicação de delineamentos estatísticos e cálculo do tamanho amostral.
+
+::: {.callout-tip collapse=false title=Aplicações}
+Ensaios laboratoriais, testes comparativos, estudos de campo e pesquisas aplicadas.
+:::
+
+---
+
+## 🟠 Análises Estatísticas Completas
+
+Execução de análises estatísticas sob demanda, com entrega de relatórios interpretados e orientações para a apresentação dos resultados.
+
+::: {.callout-important collapse=false title=Metodologias}
+**Inclui:** Testes de hipóteses, regressões, ANOVA, modelos lineares/mistos, análises multivariadas e mais.
+:::
+
+---
+
+## 🟠 Apoio Acadêmico e Metodológico
+
+Auxílio em disciplinas da área de estatística, orientação em produções acadêmicas (TCC, dissertação, tese), revisão metodológica e uso do software R.
+
+::: {.callout-note collapse=false title=Público-alvo}
+**Voltado para:** Estudantes de graduação e pós-graduação em diversas áreas do conhecimento.
+:::

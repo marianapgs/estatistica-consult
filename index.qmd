@@ -1,0 +1,174 @@
+---
+title: "Página inicial"
+format: html
+execute: 
+    echo: false
+    warning: false
+    message: false
+---
+
+<!-- Jumbotron -->
+
+::: jumbotron
+<h1 class="display-4">
+
+Consultoria Estatística Profissional
+
+</h1>
+
+<p class="lead">
+
+Assessoria estatística completa para estudantes de graduação e pós-graduação e pesquisadores: análises, gráficos, interpretação e tutoria personalizada.
+
+</p>
+:::
+
+![](images/Resultados%20confiantes.png)
+
+::::::::::::: jumbotron
+<hr class="my-4">
+
+<p>Entre em contato e descubra como podemos ajudar no seu projeto!</p>
+
+<a class="btn btn-primary btn-lg" href="contato.html" role="button">Contato</a>
+
+<hr class="my-4">
+
+</div>
+
+<!-- Como funciona -->
+
+<h2>Como funciona</h2>
+
+```{=html}
+<style>
+.timeline {
+  position: relative;
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 5px; /* Espessura da linha */
+  background-color: #48D1CC;
+  top: 0;
+  bottom: 0;
+  left: 50%; /* Linha no centro */
+  margin-left: -2px;
+}
+
+.timeline-item {
+  position: relative;
+  background: #F0F8FF;
+  border-radius: 10px;
+  padding: 15px;
+  width: 55%; /* Aumentei a largura */
+  margin-bottom: 20px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column; /* Título acima do conteúdo */
+  align-items: flex-start; /* Alinhar texto à esquerda */
+}
+
+.timeline-item.left {
+  right: 40%; /* Posiciona a borda direita no centro */
+  /* text-align: right; */
+}
+
+.timeline-item.right {
+  left: 40%; /* Mantém a borda esquerda no centro */
+ /* text-align: left; */
+}
+
+
+.timeline-marker { /* Estilo do traço */
+  width: 20px; /* Comprimento do traço */
+  height: 4px; /* Espessura do traço */
+  background-color: #48D1CC;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Posição dos traços */
+.timeline-item.left .timeline-marker {
+  right: -70px; /* Posiciona à direita da linha */
+}
+
+.timeline-item.right .timeline-marker {
+  left: -70px; /* Posiciona à esquerda da linha */
+}
+         
+</style>
+```
+
+<section class="timeline">
+
+:::: {.timeline-item .left}
+::: timeline-marker
+:::
+
+<h3>📅 Etapa 1</h3>
+
+<p>Você entra em contato e descreve sua necessidade.</p>
+::::
+
+:::: {.timeline-item .right}
+::: timeline-marker
+:::
+
+<h3>📊 Etapa 2</h3>
+
+<p>Definição do serviço e proposta de análise.</p>
+::::
+
+:::: {.timeline-item .left}
+::: timeline-marker
+:::
+
+<h3>📈 Etapa 3</h3>
+
+<p>Execução da análise estatística e entrega dos resultados.</p>
+::::
+
+:::: {.timeline-item .right}
+::: timeline-marker
+:::
+
+<h3>✅ Etapa 4</h3>
+
+<p>Suporte final e esclarecimento de dúvidas.</p>
+::::
+
+</section>
+
+<!-- Seção Sobre -->
+
+::: container
+<h2>Por trás da consultoria</h2>
+
+<p>Sou formada em Biotecnologia e mestre em Estatística Aplicada e Biometria. Utilizo visão interdisciplinar para ser mais detalhista, coerente e eficiente na aplicação da estatística em diversas áreas do conhecimento. Tenho experiência com condução de pesquisas científicas, conhecendo todo o processo de levantamento de hipóstes, determinação metodológica, qualificação dos resultados junto à escrita de relatórios e monografias.</p>
+:::
+
+::: jumbotron
+<!-- Seção Benefícios -->
+
+<h2>Benefícios</h2>
+
+<p>
+
+🟢 Suporte amplo para sua pesquisa, desde o planejamento até a análise e interpretação dos resultados.
+
+🟢 Auxílio na definição do tamanho da sua amostra, coleta de dados e estruturação do seu experimento.
+
+🟢 Acompanhamento passo a passo. Entendimento de todos os processos. Você no domínio da sua pesquisa.
+
+🟢 Tranquilidade e confiabilidade na sua pesquisa e nos seus resultados.
+
+</p>
+
