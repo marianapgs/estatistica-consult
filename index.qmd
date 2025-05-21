@@ -115,7 +115,7 @@ Assessoria estatística completa para estudantes de graduação e pós-graduaç�
 
 <h3>📅 Etapa 1</h3>
 
-<p>Você entra em contato e descreve sua necessidade.</p>
+<p>Entre em contato e descreva sua necessidade.</p>
 ::::
 
 :::: {.timeline-item .right}
