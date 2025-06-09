@@ -18,7 +18,7 @@ Consultoria Estatística Profissional
 
 <p class="lead">
 
-Assessoria estatística completa para estudantes de graduação e pós-graduação e pesquisadores: análises, gráficos, interpretação e tutoria personalizada.
+Soluções estatísticas estudantes, pesquisadores e projetos acadêmicos. Do planejamento à análise: metodologias, gráficos, interpretação e suporte técnico personalizado.
 
 </p>
 :::
@@ -133,7 +133,7 @@ Assessoria estatística completa para estudantes de graduação e pós-graduaç�
 
 <h3>📈 Etapa 3</h3>
 
-<p>Execução da análise estatística e entrega dos resultados.</p>
+<p>Execução do serviço e entrega dos resultados.</p>
 ::::
 
 :::: {.timeline-item .right}
@@ -152,7 +152,7 @@ Assessoria estatística completa para estudantes de graduação e pós-graduaç�
 ::: container
 <h2>Por trás da consultoria</h2>
 
-<p>Sou formada em Biotecnologia e mestre em Estatística Aplicada e Biometria. Utilizo visão interdisciplinar para ser mais detalhista, coerente e eficiente na aplicação da estatística em diversas áreas do conhecimento. Tenho experiência com condução de pesquisas científicas, conhecendo todo o processo de levantamento de hipóstes, determinação metodológica, qualificação dos resultados junto à escrita de relatórios e monografias.</p>
+<p>Sou formada em Biotecnologia e mestre em Estatística Aplicada e Biometria. Utilizo visão interdisciplinar para ser mais detalhista, coerente e eficiente na aplicação da estatística em diversas áreas do conhecimento. Tenho experiência com condução de pesquisas científicas e experimentos, conhecendo todo o processo de levantamento de hipóstes, determinação metodológica, qualificação dos resultados junto à escrita de relatórios e monografias.</p>
 :::
 
 ::: jumbotron
