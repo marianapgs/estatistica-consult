@@ -18,7 +18,7 @@ Consultoria Estatística Profissional
 
 <p class="lead">
 
-Soluções estatísticas estudantes, pesquisadores e projetos acadêmicos. Do planejamento à análise: metodologias, gráficos, interpretação e suporte técnico personalizado.
+Soluções estatísticas para estudantes, pesquisadores, empresas e projetos acadêmicos. Do planejamento à análise: metodologias, gráficos, interpretação e suporte técnico personalizado.
 
 </p>
 :::
